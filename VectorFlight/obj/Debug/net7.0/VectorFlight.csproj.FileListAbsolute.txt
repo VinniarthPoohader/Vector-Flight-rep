@@ -1,0 +1,15 @@
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/obj/Debug/net7.0/VectorFlight.csproj.AssemblyReference.cache
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/obj/Debug/net7.0/VectorFlight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/obj/Debug/net7.0/VectorFlight.AssemblyInfoInputs.cache
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/obj/Debug/net7.0/VectorFlight.AssemblyInfo.cs
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/obj/Debug/net7.0/VectorFlight.csproj.CoreCompileInputs.cache
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/bin/Debug/net7.0/VectorFlight
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/bin/Debug/net7.0/VectorFlight.deps.json
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/bin/Debug/net7.0/VectorFlight.runtimeconfig.json
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/bin/Debug/net7.0/VectorFlight.dll
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/bin/Debug/net7.0/VectorFlight.pdb
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/obj/Debug/net7.0/VectorFlight.dll
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/obj/Debug/net7.0/refint/VectorFlight.dll
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/obj/Debug/net7.0/VectorFlight.pdb
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/obj/Debug/net7.0/VectorFlight.genruntimeconfig.cache
+/Users/alexeymolchanov/Projects/VectorFlight/VectorFlight/obj/Debug/net7.0/ref/VectorFlight.dll
